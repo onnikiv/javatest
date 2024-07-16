@@ -16,8 +16,8 @@ public class task3 {
             System.out.println("Give the third number:");
             int third = Integer.parseInt(scanner.nextLine());
 
-            int sum = first + second + third;
-            int product = first * second * third;
+            float sum = first + second + third;
+            float product = first * second * third;
             float average = sum / 3;
 
             System.out.println("\nThe outcome of your numbers");
