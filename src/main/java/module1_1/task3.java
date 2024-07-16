@@ -16,6 +16,7 @@ public class task3 {
             System.out.println("Give the third number:");
             int third = Integer.parseInt(scanner.nextLine());
 
+            // Täytyy olla liukulukuina kaikki, jotta saa desimaalit, jos yksikin kokonaisluku niin se pyöristyy
             float sum = first + second + third;
             float product = first * second * third;
             float average = sum / 3;
