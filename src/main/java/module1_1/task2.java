@@ -1,10 +1,5 @@
 package module1_1;
 
-/*    4-rivin kolmio for looppi
-            *
-           ***
-          *****
-         *******             */
 public class task2 {
 
     public static void main(String[] args) {
@@ -15,3 +10,9 @@ public class task2 {
 
     }
 }
+
+/*    4-rivin kolmio for looppi
+            *
+           ***
+          *****
+         *******             */
